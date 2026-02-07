@@ -1,4 +1,11 @@
-# DDos-Attack 
+# DDos-Attack
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/Panda1847/DDos-Attack)](https://github.com/Panda1847/DDos-Attack/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Panda1847/DDos-Attack)](https://github.com/Panda1847/DDos-Attack/network)
+[![GitHub issues](https://img.shields.io/github/issues/Panda1847/DDos-Attack)](https://github.com/Panda1847/DDos-Attack/issues)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Panda1847/DDos-Attack)
+
 ### What Is A DDos-Attack
 
 ### A Distributed Denial of Service (DDoS) attack is an attempt to make an online service unavailable 
